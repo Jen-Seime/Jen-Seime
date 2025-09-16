@@ -1,18 +1,18 @@
-# Hi there 👋, I'm D.putra
+# Hi there , I'm D.putra
 
-💻 I'm a Web Developer & Data Analyst  
-🌱 Skilled in building modern web applications and analyzing data  
-🎯 Goals: Become a professional developer  
+ I'm a Web Developer & Data Analyst  
+ Skilled in building modern web applications and analyzing data  
+ Goals: Become a professional developer  
 
-## 🚀 Skills
+##  Skills
 - Frontend: HTML, CSS, JavaScript, React, Next.js  
 - Backend: Python (Flask, Django), PHP (Laravel)  
 - Database: MySQL 
-## 📫 Reach me:
+##  Reach me:
 - Email: nyomanadi134@gmail.com
 - GitHub: [dputra162005](https://github.com/dputra162005)
 
-- ## 🛠️ Tech Stack
+- ##  Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
