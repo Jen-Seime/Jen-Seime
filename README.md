@@ -1,5 +1,7 @@
-
-![snake gif](https://github.com/username/username/blob/output/github-contribution-grid-snake.gif)
+<!-- Pixel Art Goku Running -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF6bTB5bjExY3Z4MWliczdsYTRib200YzRwa2NxcXZhenFleDMycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4XtU6oZ1v8e0VczstY/giphy.gif" width="100%" height= 200px; />
+</p>
 
 # Hi there , I'm D.putra
 
