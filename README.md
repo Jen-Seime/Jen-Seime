@@ -45,16 +45,16 @@ Seorang pengembang web yang berfokus pada **antarmuka minimalis** dan **analisis
 
 ### 📈 Statistik & Aktivitas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dputra162005&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dputra162005&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dputra162005&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-Seime&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="45%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dputra162005&theme=transparent&hide_border=true&sideLabels=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-Seime&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&stroke=58A6FF" width="100%" />
 </div>
-
 ---
 
 ### 📫 Hubungi Saya
