@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3c9138bc-fa51-4e67-9425-1b844c3844c1" width="120" alt="Pixel Goku" />
+ 
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Halo,+Saya+D.+Putra;Web+Developer;Data+Analyst;Building+Digital+Experience" alt="Typing SVG" /></h1>
 
   <p align="center">
