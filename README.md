@@ -45,7 +45,7 @@ Seorang pengembang web yang berfokus pada **antarmuka minimalis** dan **analisis
 
 ### 📈 Statistik & Aktivitas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dputra162005&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jen-Seime&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" width="48%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen-Seime&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="45%" />
 </div>
