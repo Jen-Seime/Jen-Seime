@@ -3,7 +3,7 @@
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Halo,+Saya+D.+Putra;Web+Developer;Data+Analyst;Building+Digital+Experience" alt="Typing SVG" /></h1>
 
   <p align="center">
-    <a href="https://github.com/dputra162005">
+    <a href="https://github.com/Jen-Seime">
       <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-brightgreen?style=for-the-badge&logo=github" />
     </a>
   </p>
@@ -68,5 +68,5 @@ Seorang pengembang web yang berfokus pada **antarmuka minimalis** dan **analisis
 </p>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=dputra162005&color=58A6FF&style=flat-square&label=PENGUNJUNG" />
+  <img src="https://komarev.com/ghpvc/?username=Jen-Seime&color=58A6FF&style=flat-square&label=PENGUNJUNG" />
 </div>
