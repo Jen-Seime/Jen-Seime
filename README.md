@@ -1,48 +1,72 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3c9138bc-fa51-4e67-9425-1b844c3844c1" width="150" alt="Goku Pixel Art" />
-  <h1>Hi there, I'm <kbd>D. Putra</kbd> 👋</h1>
-  <p><strong>Web Developer & Data Analyst</strong></p>
+  <img src="https://github.com/user-attachments/assets/3c9138bc-fa51-4e67-9425-1b844c3844c1" width="120" alt="Pixel Goku" />
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Halo,+Saya+D.+Putra;Web+Developer;Data+Analyst;Building+Digital+Experience" alt="Typing SVG" /></h1>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF6bTB5bjExY3Z4MWliczdsYTRib200YzRwa2NxcXZhenFleDMycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4XtU6oZ1v8e0VczstY/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+  <p align="center">
+    <a href="https://github.com/dputra162005">
+      <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-brightgreen?style=for-the-badge&logo=github" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 💫 About Me
-- 🔭 **Current Focus:** Building high-end web applications and deep-diving into data insights.
-- ⚡ **Goal:** Bridging the gap between clean design and functional backend logic.
-- 🎓 **Mission:** Constantly evolving to become a top-tier professional developer.
+### 👨‍💻 Tentang Saya
+Seorang pengembang web yang berfokus pada **antarmuka minimalis** dan **analisis data yang presisi**. Saya percaya bahwa kode yang baik bukan hanya tentang fungsi, tapi juga tentang estetika dan efisiensi.
+
+- 🚀 **Sedang Mengembangkan:** Sistem manajemen konten sekolah & aplikasi e-commerce.
+- 🎨 **Passion:** UI/UX yang bersih, modern, dan profesional.
+- 🛠️ **Workflow:** Laravel + Tailwind CSS & React Ecosystem.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Keahlian Teknis
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat-square) |
-| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square) |
-| **Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat-square) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff&style=flat-square) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend & Design</h4>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Data</h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
+### 📈 Statistik & Aktivitas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dputra162005&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dputra162005&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dputra162005&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dputra162005&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true" width="45%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dputra162005&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dputra162005&theme=transparent&hide_border=true&sideLabels=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
+</div>
+
+---
+
+### 📫 Hubungi Saya
+<p align="left">
+  <a href="mailto:nyomanadi134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dputra162005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
-
-### 📫 Let's Connect!
-- 📧 **Email:** [nyomanadi134@gmail.com](mailto:nyomanadi134@gmail.com)
-- 💼 **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dputra162005&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=dputra162005&color=58A6FF&style=flat-square&label=PENGUNJUNG" />
 </div>
